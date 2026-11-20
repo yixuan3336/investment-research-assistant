@@ -1,0 +1,8 @@
+name = "investment-research-assistant-api"
+main = "index.js"
+compatibility_date = "2026-11-20"
+
+[vars]
+# Set this to the exact Pages origin, e.g. https://ACCOUNT.github.io
+ALLOWED_ORIGIN = "https://yixuan3336.github.io"
+OPENAI_MODEL = "gpt-6.2-astra"
